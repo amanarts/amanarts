@@ -16,8 +16,7 @@ const amanarts = {
 	devOps: [Docker, Kubernetes],
 	tools: [Blender, Figma, Photoshop, Illustrator, Adobe XD, Davinci Resolve],
 	techCommunities: {
-		studentAmbassador: "Microsoft Learn Student Ambassador",
-		techCompany: "Publicis Sapient",
+		techCompany: "Publicis Sapient"
 	},
 	askMeAbout: ["Web Development", "3D graphics"]
 }
