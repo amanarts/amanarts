@@ -26,9 +26,9 @@ const amanarts = {
 <hr height='.5' />
 
 <p align="center">
-   <img height="170" width="150" src="https://github.com/Harshal0902/Harshal0902/blob/main/gamer.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Harshal0902&theme=neon-dark"/>
-   <img height="170" width="150" src="https://github.com/Harshal0902/Harshal0902/blob/main/IronMan.png">
+   <img height="170" width="150" src="https://github.com/amanarts/amanarts/blob/main/gamer.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=amanarts&theme=neon-dark"/>
+   <img height="170" width="150" src="https://github.com/amanarts/amanarts/blob/main/IronMan.png">
 </p>
 
 ## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
